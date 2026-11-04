@@ -1,0 +1,5 @@
+# IP或别名    用户    IP地址          端口   
+server01      root    192.168.1.101   22      
+server02      ops     192.168.1.102   22      
+server03      admin   192.168.1.103   22    
+server04      root    192.168.1.104   22      
